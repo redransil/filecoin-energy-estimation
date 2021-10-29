@@ -15,10 +15,15 @@ This major version uses the following formula, derived from dimensional analysis
 For an entity (either the network as a whole or an individual SP):
 
 **Electrical Power ∝ watts** is the electricity use of the entity
+
 **A ∝ Wh/byte** is the energy required to seal a sector (sealing constant)
+
 **Sealing Rate ∝ bytes / hour** is the rate at which new data is being sealed by that entity
+
 **B ∝ W/byte** is the electrical power required to store data over time (storage constant)
+
 **Raw Capacity ∝ bytes** is the amount of data stored by the entity
+
 **PUE ∝ dimensionless** is the power usage effectiveness, which is the ratio of total electrical power consumed to that consumed by IT processes
 
 ## v1.0.1
