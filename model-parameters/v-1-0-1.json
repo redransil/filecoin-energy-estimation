@@ -1,0 +1,21 @@
+{
+  "sealing":{
+    "min":6.0085E-9,
+    "estimate":3.416E-8,
+    "max":5.60E-8,
+    "units":"Wh/byte"
+  },
+  "storage":{
+    "min":9.0227E-13,
+    "estimate":3E-12,
+    "max":8.1E-12,
+    "units":"W/byte"
+  },
+  "pue":{
+    "min":1.18,
+    "estimate":1.57,
+    "max":1.93,
+    "units":"dimensionless"
+  },
+  "changes":"increased storage.max about 20%"
+}
