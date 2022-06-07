@@ -28,3 +28,9 @@ For an entity (either the network as a whole or an individual SP):
 
 ## v1.0.1
 Patch to the constant storage.max
+
+## Benchmarks
+For comparison and research, some useful resources laying out Filecoin hardware configurations and performance are:
+[Filecoin Benchmarks repo](https://github.com/filecoin-project/benchmarks)
+[Community Miner Hardware Profiles](https://github.com/filecoin-project/lotus/discussions/6071)
+[Lotus Benchmarks](https://github.com/filecoin-project/lotus/discussions/8605)
